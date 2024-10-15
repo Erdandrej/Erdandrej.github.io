@@ -1,2 +1,2 @@
 (window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d225785"],{e510:function(e,n,t){"use strict";t.r(n);var i=function(){var e=this,n=e._self._c;return n("div",[n("ProjectDetails",{attrs:{projectDetails:e.projectDetails}})],1)},a=[],r=t("7601"),s={components:{ProjectDetails:r["a"]},data:()=>({projectDetails:{title:"Noise-based Terrain Generation",subtitle:"C++ Computer Graphics Demo",mainImage:{name:"Terrain4.png",index:0},images:[[{name:"Terrain2.png",index:1}],[{name:"Terrain3.png",index:2}],[{name:"Terrain1.png",index:3}]],descriptionComponent:"terrain-descript"}})},o=s,p=t("2877"),c=Object(p["a"])(o,i,a,!1,null,null,null);n["default"]=c.exports}}]);
-//# sourceMappingURL=chunk-2d225785.bf733086.js.map
+//# sourceMappingURL=chunk-2d225785.76d339f2.js.map

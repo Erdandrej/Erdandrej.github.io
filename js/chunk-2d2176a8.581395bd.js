@@ -1,2 +1,2 @@
 (window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2176a8"],{c742:function(e,n,t){"use strict";t.r(n);var i=function(){var e=this,n=e._self._c;return n("div",[n("ProjectDetails",{attrs:{projectDetails:e.projectDetails}})],1)},a=[],o=t("7601"),l={components:{ProjectDetails:o["a"]},data:()=>({projectDetails:{title:"Voxel Game Engine",subtitle:"C# Game Engine Architecture Group Project",mainImage:{name:"Voxel3.png",index:0},images:[[{name:"Voxel2.png",index:1}],[{name:"Voxel1.png",index:2}],[{name:"Voxel4.png",index:3}]],descriptionComponent:"voxel-descript"}})},c=l,r=t("2877"),s=Object(r["a"])(c,i,a,!1,null,null,null);n["default"]=s.exports}}]);
-//# sourceMappingURL=chunk-2d2176a8.3c1073c1.js.map
+//# sourceMappingURL=chunk-2d2176a8.581395bd.js.map
