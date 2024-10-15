@@ -1,4 +1,5 @@
 # portfolio
+This is a repository for my portfolio showing my various projects.
 
 ## Project setup
 ```
@@ -15,10 +16,12 @@ npm run serve
 npm run build
 ```
 
+### Compiles and Deploys
+```
+npm run deploy
+```
+
 ### Lints and fixes files
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
