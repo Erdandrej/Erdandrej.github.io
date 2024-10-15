@@ -1,5 +1,5 @@
 # Portfolio
-This is a repository for website portfolio that shows my various projects.
+This is a repository for my website portfolio.
 
 ## Project setup
 ```
