@@ -26,8 +26,8 @@
             <br> • <a href="https://docs.unity3d.com/Manual/Coroutines.html" target="_blank"><strong>COROUTINES</strong></a>
             <br> • <a href="https://docs.unity3d.com/Manual/UnityEvents.html" target="_blank"><strong>CUSTOM EVENTS</strong></a>
             <br> • <a href="https://docs.unity3d.com/Manual/Shaders.html" target="_blank"><strong>SHADERS</strong></a>
-            <br> • <a href="https://www.photonengine.com/#" target="_blank"><strong>PHOTON</strong></a>
-            <br> • <a href="https://unity.com/unity/features/editor/art-and-design/cinemachine" target="_blank"><strong>CINEMACHINE</strong></a>
+            <br> • <a href="https://unity.com/unity/features/editor/art-and-design/cinemachine" target="_blank"><strong>CINEMACHINE</strong></a> (For camera systems)
+            <br> • <a href="https://www.photonengine.com/#" target="_blank"><strong>PHOTON</strong></a> (For multiplayer implementation)
             <br> • <a href="https://git-scm.com/" target="_blank"><strong>GIT</strong></a> (For version control)
         </p>
         <br><br>
