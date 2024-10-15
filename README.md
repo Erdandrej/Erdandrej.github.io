@@ -1,5 +1,5 @@
-# portfolio
-This is a repository for my portfolio showing my various projects.
+# Portfolio
+This is a repository for website portfolio that shows my various projects.
 
 ## Project setup
 ```
@@ -16,7 +16,7 @@ npm run serve
 npm run build
 ```
 
-### Compiles and Deploys
+### Compiles and deploys to github
 ```
 npm run deploy
 ```
