@@ -32,20 +32,22 @@
                 
                 <div class="portfolio-item">
                     <div class="portfolio-img has-margin-right">
-                        <router-link to="/deep"><img src="../resources/project-images/Deep1.png" alt=""></router-link>
+                        <router-link to="/deep"><img src="../resources/project-images/Deep8.png" alt=""></router-link>
                     </div>
                     <div class="portfolio-description">
                         <h6>3D Game Development - Group Project</h6>
                         <h1>Creatures of the Deep</h1>
                         <p>
-                            A first-person submarine horror game with a physical control system, underwater exploration and scary creatures developed in Unity.
-                            This project is currently being worked on and is plannned to release on Steam.
-                            My responsibilities include programming gameplay systems in C# and overall game design.
+                            A first-person atmospheric horror adventure game developed in Unity where the player has to navigate an antique submarine 
+                            through sunken ruins with a physical control system and retrieve a set of ancient artefacts while avoiding what lurks beneath. 
                         </p>
-                        <p class="cta">Highlights: <strong>C#</strong>, <strong>Unity</strong>, <strong>Gameplay Programming</strong>, <strong>Game Design</strong>, <strong>Physical Control System</strong>, <strong>Custom Submarine Physics</strong>, <strong>FMOD</strong>.</p>
+                        <p class="cta">Highlights: <strong>Unity</strong>, <strong>C#</strong>, <strong>Gameplay Programming</strong>, <strong>Game Design</strong>, <strong>Level Design</strong>, <strong>Physical Control System</strong>, <strong>Custom Submarine Physics</strong>, <strong>FMOD</strong>.</p>
                         <br><br>
                         <p class="cta"><router-link to="/deep"><strong>View Details</strong></router-link></p>
                         <br><br>
+                        <a href="https://raul-martin.itch.io/creatures-of-the-deep" target="_blank" class="project-link">
+                            <i class="fab fa-itch-io"></i>
+                        </a>
                         <a href="https://github.com/Erdandrej/Portfolio_Sample_Scripts/tree/main/CreaturesOfTheDeep" target="_blank" class="project-link">
                             <i class="fab fa-github"></i>
                         </a>
