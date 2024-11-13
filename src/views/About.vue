@@ -17,8 +17,8 @@
 					<div class="separator-line"></div>
                     <br>
 					<p>
-						My practical experiences gained through <strong>academia</strong>, <strong>personal projects</strong>, and work on ongoing 
-						<strong>online games</strong> have allowed me to nurture a diverse yet robust skillset that can be applied to any development environment.
+						My practical experiences in <strong>academia</strong>, <strong>personal projects</strong>, and work on ongoing 
+						<strong>online games</strong> have helped me nurture a diverse yet robust skillset, ready for any development environment.
                     </p>
                     <br>
 					<div class="separator-line"></div>
