@@ -12,11 +12,10 @@
                         <p class="global-link resume-file"><a href="./BachelorCoursesPassed.pdf" target="_blank"><i class="far fa-file-pdf"/> BachelorCourses.pdf</a></p>
                     </div>
                     <div class="skill">
-                        <p class="global-link resume-file"><a href="./MasterCourseCertificate.pdf" target="_blank"><i class="far fa-file-pdf"/> MasterCourseCertificate.pdf</a></p>
+                        <p class="global-link resume-file"><a href="./MasterCourseTranscript.pdf" target="_blank"><i class="far fa-file-pdf"/> MasterCourseTranscript.pdf</a></p>
                     </div>
                     <div class="skill">
-                        <p class="global-link resume-file"><a href="./CV_AndrejErdelsky.pdf" target="_blank"><i class="far fa-file-pdf"/> CV_AndrejErdelsky.pdf</a></p>
-                        <p class="global-link resume-file"><a href="./CV_AndrejErdelsky.docx" target="_blank"><i class="far fa-file-alt"/> CV_AndrejErdelsky.docx</a></p>
+                        <p class="global-link resume-file"><a href="./CV_Andrej_Erdelsky.pdf" target="_blank"><i class="far fa-file-pdf"/> CV_AndrejErdelsky.pdf</a></p>
                     </div>
                     <div class="skill">
                         <p class="global-link resume-file"><a href="./RecommendationLetterForAndrejErdelskyNatasha.pdf" target="_blank"><i class="far fa-file-pdf"/> RecommendNatasha.pdf</a></p>

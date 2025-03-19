@@ -11,7 +11,7 @@
             In addition to these noise-based techniques, the environment is brought to life by using height-based biome terrain shading and the possibility to spawn grass meshes in selected biomes.
             There is also an option for depth-based fog shading.
             <br><br>
-            My main responsibilities for this project were <strong>implementing the modular Perling noise algorithm</strong>, using the algorithm to <strong>generate custom noise textures</strong>, 
+            My main responsibilities for this project were <strong>implementing the modular Perlin noise algorithm</strong>, using the algorithm to <strong>generate custom noise textures</strong>, 
             <strong>generating the procedural terrain mesh</strong>, <strong>implementing shaders</strong> and the <strong>biome system</strong>.
         </p>
         <p class="tool-used">Tools Used:
