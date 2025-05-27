@@ -4,6 +4,32 @@
 
                 <div class="portfolio-item">
                     <div class="portfolio-description has-margin-right">
+                        <h6>Unreal Engine Game Development - Master Thesis Project</h6>
+                        <h1>FortCraft: Island Escape</h1>
+                        <p>
+                            A massively multiplayer cooperative sandbox survival game, developed in Unreal Engine and accessible through the Fortnite client, which enables up to 100 players to explore a mysterious island, gather materials, and craft items together as a team to survive an imminent extinction event.
+                            Developed in collaboration with <strong>FunRock and Prey Studios</strong>.
+                        </p>
+                        <p class="cta">Highlights: <strong>Unreal Engine 5</strong>, <strong>UEFN</strong>, <strong>Game Design</strong>, <strong>Gameplay Programming</strong>, <strong>Verse</strong>, <strong>Emergent Player Behavior</strong>, <strong>Extensive Playtesting</strong>, <strong>Master Thesis</strong>.</p>
+                        <br><br>
+                        <p class="cta"><router-link to="/island"><strong>View Details</strong></router-link></p>
+                        <br><br>
+                        <a href="https://funrock.com/" target="_blank" class="project-link">
+                            <i class="fa fa-user"></i>
+                        </a>
+                        <a href="" target="_blank" class="project-link">
+                            <i class="far fa-file-archive"></i>
+                        </a>
+                    </div>
+                    <div class="portfolio-img">
+                        <router-link to="/island"><img src="../resources/project-images/Island2.png" alt=""></router-link>
+                    </div>
+                </div>
+
+                <div class="separator-line"></div>
+
+                <div class="portfolio-item">
+                    <div class="portfolio-description has-margin-right">
                         <h6>Unity Game Development - Work for International Community Project</h6>
                         <h1>DCGO Trading Card Game Simulator</h1>
                         <p>

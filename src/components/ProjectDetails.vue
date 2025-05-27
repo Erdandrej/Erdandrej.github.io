@@ -35,6 +35,7 @@
 </template>
 
 <script>
+import IslandDescript from './ProjectDescriptions/IslandDescript.vue';
 import DCGODescript from './ProjectDescriptions/DCGODescript.vue';
 import DeepDescript from './ProjectDescriptions/DeepDescript.vue';
 import SSDDescript from './ProjectDescriptions/SSDDescript.vue';
@@ -50,6 +51,7 @@ require('vue-image-lightbox/dist/vue-image-lightbox.min.css')
 export default {
 	props: ['projectDetails'],
     components: { 
+        IslandDescript,
         DCGODescript,
         DeepDescript,
         SSDDescript,

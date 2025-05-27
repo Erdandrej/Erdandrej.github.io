@@ -46,6 +46,11 @@ const routes = [
   
   // Gamedev Project Details pages.
   {
+    path: '/island',
+    name: 'Island',
+    component: () => import('../views/ProjectViews/Island.vue')
+  },
+  {
     path: '/dcgo',
     name: 'DCGO',
     component: () => import('../views/ProjectViews/DCGO.vue')
