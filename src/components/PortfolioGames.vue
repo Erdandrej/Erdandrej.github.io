@@ -15,7 +15,7 @@
                         <p class="cta"><router-link to="/island"><strong>View Details</strong></router-link></p>
                         <br><br>
                         <a href="https://funrock.com/" target="_blank" class="project-link">
-                            <i class="fa fa-user"></i>
+                            <i class="fas fa-link"></i>
                         </a>
                         <a href="" target="_blank" class="project-link">
                             <i class="far fa-file-archive"></i>

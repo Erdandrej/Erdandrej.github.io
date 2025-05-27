@@ -3,14 +3,31 @@
         <div id="portfolio-research">
                 <div class="portfolio-item">
                     <div class="portfolio-description">
-                        <h6>Research Thesis</h6>
-                        <h1>An empirical study of the effects of unconfoundedness on the performance of Propensity Score Matching</h1>
-                        <p class="global-link"><a href="./PSM_Thesis.pdf" target="_blank"><i class="fas fa-link"/> An empirical study of the effects of unconfoundedness on the performance of Propensity Score Matching.pdf</a></p>
-                        <p class="global-link"><a href="./PSM_Poster.pdf" target="_blank"><i class="fas fa-link"/> Propensity Score Matching Poster.pdf</a></p>
+                        <h6>Research Master Thesis</h6>
+                        <h1>Design of Engaging Community-Centered Cooperative Multiplayer Sandbox Games with Wide Demographic Appeal</h1>
+                        <p class="global-link"><a href="./PSM_Thesis.pdf" target="_blank"><i class="far fa-file-pdf"/> [WIP] Design of Engaging Community-Centered Cooperative Multiplayer Sandbox Games with Wide Demographic Appeal</a></p>
                         <br>
                         <p>
-                        My BSc thesis work from the Delf University of Technology, this empirical research study consisted of measuring the performance of a specific AI method, 
-                        Propensity Score Matching, compared to other methods for determining causality in various data sets by changing their inherent unconfoundedness.
+                        My MSc thesis work from the Game Design and Technology program at the University of Gothenburg.
+                        This research thesis explores how sandbox game mechanics can be designed to foster emergent, community-driven cooperative behavior among players, particularly through the organic formation of role hierarchies. 
+                        The project combines academic research on game psychology, player motivation, and multiplayer system dynamics with iterative design and empirical playtesting. 
+                        It aims to contribute practical design guidelines for future games seeking to cultivate deep social interaction and self-sustaining player communities that extend beyond the sum of their individual mechanics.
+                        </p>
+                        <p class="cta">Highlights: <strong>Game Design</strong>, <strong>Emergent Player Behavior</strong> , <strong>Empirical Playtesting</strong>, <strong>Player Motivation</strong>, <strong>Multiplayer System Dynamics</strong>, <strong>Game Psychology</strong>.</p>
+                    </div>
+                </div>
+
+                <div class="separator-line"></div>
+                <div class="portfolio-item">
+                    <div class="portfolio-description">
+                        <h6>Research Bachelor Thesis</h6>
+                        <h1>An empirical study of the effects of unconfoundedness on the performance of Propensity Score Matching</h1>
+                        <p class="global-link"><a href="./PSM_Thesis.pdf" target="_blank"><i class="far fa-file-pdf"/> An empirical study of the effects of unconfoundedness on the performance of Propensity Score Matching.pdf</a></p>
+                        <p class="global-link"><a href="./PSM_Poster.pdf" target="_blank"><i class="far fa-file-pdf"/> Propensity Score Matching Poster.pdf</a></p>
+                        <br>
+                        <p>
+                        My BSc thesis work from the Computer Science and Engineering at the Delf University of Technology. 
+                        This empirical research study consisted of measuring the performance of a specific AI method, Propensity Score Matching, compared to other methods for determining causality in various data sets by changing their inherent unconfoundedness.
                         </p>
                         <p class="cta">Highlights: <strong>Algorithm Design</strong>, <strong>AI</strong>, <strong>Data Science</strong>.</p>
                     </div>
