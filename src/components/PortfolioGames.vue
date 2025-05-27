@@ -10,7 +10,7 @@
                             A massively multiplayer cooperative sandbox survival game, developed in Unreal Engine and accessible through the Fortnite client, which enables up to 100 players to explore a mysterious island, gather materials, and craft items together as a team to survive an imminent extinction event.
                             Developed in collaboration with <strong>FunRock and Prey Studios</strong>.
                         </p>
-                        <p class="cta">Highlights: <strong>Unreal Engine 5</strong>, <strong>UEFN</strong>, <strong>Game Design</strong>, <strong>Gameplay Programming</strong>, <strong>Verse</strong>, <strong>Emergent Player Behavior</strong>, <strong>Extensive Playtesting</strong>, <strong>Master Thesis</strong>.</p>
+                        <p class="cta">Highlights: <strong>Unreal Engine 5</strong>, <strong>UEFN</strong>, <strong>Game Design</strong>, <strong>Gameplay Programming</strong>, <strong>Verse</strong>, <strong>Large Scale Multiplayer</strong>, <strong>Emergent Player Behavior</strong>, <strong>Master Thesis</strong>.</p>
                         <br><br>
                         <p class="cta"><router-link to="/island"><strong>View Details</strong></router-link></p>
                         <br><br>
@@ -23,6 +23,28 @@
                     </div>
                     <div class="portfolio-img">
                         <router-link to="/island"><img src="../resources/project-images/Island2.png" alt=""></router-link>
+                    </div>
+                </div>
+
+                <div class="separator-line"></div>
+
+                <div class="portfolio-item">
+                    <div class="portfolio-img has-margin-right">
+                        <router-link to="/mecha"><img src="../resources/project-images/Mecha1.png" alt=""></router-link>
+                    </div>
+                    <div class="portfolio-description">
+                        <h6>AR Unity Game Development - Group Project</h6>
+                        <h1>MechaMaker</h1>
+                        <p>
+                            An augmented reality mobile game developed in Unity that serves as a proof of concept for a product where users can collect physical trading cards representing different mechanical parts and then use them inside a mixed reality environment to manually construct custom mechs that they can then use in-game to fight waves of hostile robots.
+                        </p>
+                        <p class="cta">Highlights: <strong>Unity</strong>, <strong>C#</strong>, <strong>Game Design</strong>, <strong>Augmented Reality</strong>, <strong>Image Tracking</strong>, <strong>AR Foundation</strong>, <strong>Mobile Application</strong>, <strong>FMOD</strong>.</p>
+                        <br><br>
+                        <p class="cta"><router-link to="/mecha"><strong>View Details</strong></router-link></p>
+                        <br><br>
+                        <a href="" target="_blank" class="project-link">
+                            <i class="fab fa-github"></i>
+                        </a>
                     </div>
                 </div>
 
@@ -61,7 +83,7 @@
                         <router-link to="/deep"><img src="../resources/project-images/Deep8.png" alt=""></router-link>
                     </div>
                     <div class="portfolio-description">
-                        <h6>3D Game Development - Group Project</h6>
+                        <h6>3D Unity Game Development - Group Project</h6>
                         <h1>Creatures of the Deep</h1>
                         <p>
                             A first-person atmospheric horror adventure game developed in Unity where the player has to navigate an antique submarine 
@@ -84,7 +106,7 @@
 
                 <div class="portfolio-item">
                     <div class="portfolio-description has-margin-right">
-                        <h6>2.5D Game Development - Group Project</h6>
+                        <h6>2.5D Godot Game Development - Group Project</h6>
                         <h1>Solid State Drive</h1>
                         <p>
                             An arcade-style endless runner game implemented in the Godot game engine in six weeks that leans heavily on a retro-futuristic setting, 
@@ -113,7 +135,7 @@
                         <router-link to="/crowley"><img src="../resources/project-images/Crowley1.png" alt=""></router-link>
                     </div>
                     <div class="portfolio-description">
-                        <h6>3D Game Development - Game Jam</h6>
+                        <h6>3D Godot Game Development - Game Jam</h6>
                         <h1>Crowley | Spooky Game Jam 23</h1>
                         <p>
                             A charming trinket collecting action game made in Godot over a weekend, where you control a crow with proper flight physics

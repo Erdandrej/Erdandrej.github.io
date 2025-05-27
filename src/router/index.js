@@ -51,6 +51,11 @@ const routes = [
     component: () => import('../views/ProjectViews/Island.vue')
   },
   {
+    path: '/mecha',
+    name: 'Mecha',
+    component: () => import('../views/ProjectViews/Mecha.vue')
+  },
+  {
     path: '/dcgo',
     name: 'DCGO',
     component: () => import('../views/ProjectViews/DCGO.vue')

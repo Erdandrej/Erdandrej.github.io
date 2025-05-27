@@ -36,6 +36,7 @@
 
 <script>
 import IslandDescript from './ProjectDescriptions/IslandDescript.vue';
+import MechaDescript from './ProjectDescriptions/MechaDescript.vue';
 import DCGODescript from './ProjectDescriptions/DCGODescript.vue';
 import DeepDescript from './ProjectDescriptions/DeepDescript.vue';
 import SSDDescript from './ProjectDescriptions/SSDDescript.vue';
@@ -52,6 +53,7 @@ export default {
 	props: ['projectDetails'],
     components: { 
         IslandDescript,
+        MechaDescript,
         DCGODescript,
         DeepDescript,
         SSDDescript,
