@@ -47,7 +47,7 @@
                         <a href="https://funrock.com/" target="_blank" class="project-link">
                             <i class="fas fa-link"></i>
                         </a>
-                        <a href="" target="_blank" class="project-link">
+                        <a href="./DesignCooperativeMultiplayerSandboxGames_Thesis.pdf" target="_blank" class="project-link">
                             <i class="far fa-file-archive"></i>
                         </a>
                     </div>

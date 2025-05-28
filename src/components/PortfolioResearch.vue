@@ -5,7 +5,7 @@
                     <div class="portfolio-description">
                         <h6>Research Master Thesis</h6>
                         <h1>Design of Engaging Community-Centered Cooperative Multiplayer Sandbox Games with Wide Demographic Appeal</h1>
-                        <p class="global-link"><a href="./PSM_Thesis.pdf" target="_blank"><i class="far fa-file-pdf"/> [WIP] Design of Engaging Community-Centered Cooperative Multiplayer Sandbox Games with Wide Demographic Appeal</a></p>
+                        <p class="global-link"><a href="./DesignCooperativeMultiplayerSandboxGames_Thesis.pdf" target="_blank"><i class="far fa-file-pdf"/> Design of Engaging Community-Centered Cooperative Multiplayer Sandbox Games with Wide Demographic Appeal</a></p>
                         <br>
                         <p>
                         My MSc thesis work from the Game Design and Technology program at the University of Gothenburg.
