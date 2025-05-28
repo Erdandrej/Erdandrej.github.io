@@ -95,8 +95,11 @@
                         <br><br>
                         <p class="cta"><router-link to="/mecha"><strong>View Details</strong></router-link></p>
                         <br><br>
-                        <a href="" target="_blank" class="project-link">
+                        <a href="https://github.com/Erdandrej/Portfolio_Sample_Scripts/tree/main/MechaMaker" target="_blank" class="project-link">
                             <i class="fab fa-github"></i>
+                        </a>
+                        <a href="./MechaMakerARGlyphCards.zip" target="_blank" class="project-link">
+                            <i class="far fa-file-archive"></i>
                         </a>
                     </div>
                 </div>
