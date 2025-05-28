@@ -34,7 +34,7 @@
             <br> • <a href="https://dev.epicgames.com/documentation/en-us/unreal-engine/landscape-sculpt-tool-in-unreal-engine" target="_blank"><strong>TERRAIN SCULPT TOOL</strong></a>
             <br> • <a href="https://dev.epicgames.com/documentation/en-us/uefn/water-tools-in-unreal-editor-for-fortnite" target="_blank"><strong>WATER ENVIRONMENT TOOLS</strong></a>
             <br> • <a href="https://dev.epicgames.com/documentation/en-us/unreal-engine/player-controllers-in-unreal-engine" target="_blank"><strong>THIRD PERSON PLAYER CONTROLLER</strong></a>
-            <br> • <a href="https://dev.epicgames.com/documentation/en-us/fortnite-creative/fortnite-weapons-primer" target="_blank"><strong>WEAPON SYSTEM</strong></a>
+            <br> • <a href="https://dev.epicgames.com/documentation/en-us/fortnite-creative/fortnite-weapons-primer" target="_blank"><strong>FORTNITE WEAPON SYSTEM</strong></a>
             <br> • <a href="https://dev.epicgames.com/documentation/en-us/uefn/playtesting-your-island-in-unreal-editor-for-fortnite" target="_blank"><strong>MULTI-PLATFORM PLAYTESTING</strong></a>
             <br> • <a href="https://dev.epicgames.com/documentation/en-us/unreal-engine/source-control-in-unreal-engine" target="_blank"><strong>UNREAL SOURCE CONTROL</strong></a> (For version control)
         </p>

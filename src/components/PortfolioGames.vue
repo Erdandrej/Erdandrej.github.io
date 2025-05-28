@@ -4,53 +4,6 @@
 
                 <div class="portfolio-item">
                     <div class="portfolio-description has-margin-right">
-                        <h6>Unreal Engine Game Development - Master Thesis Project</h6>
-                        <h1>FortCraft: Island Escape</h1>
-                        <p>
-                            Developed in collaboration with <strong>FunRock and Prey Studios</strong>, this large-scale multiplayer cooperative sandbox survival game was developed with Unreal Engine and officially published in Fortnite. It enables up to 100 players to explore a mysterious island, gather materials, and craft items together as a team to survive an impending extinction event.
-                        </p>
-                        <p class="cta">Highlights: <strong>Unreal Engine 5</strong>, <strong>UEFN</strong>, <strong>Game Design</strong>, <strong>Gameplay Programming</strong>, <strong>Verse</strong>, <strong>Sandbox Survival</strong>, <strong>Emergent Player Behavior</strong>, <strong>Master Thesis</strong>.</p>
-                        <br><br>
-                        <p class="cta"><router-link to="/island"><strong>View Details</strong></router-link></p>
-                        <br><br>
-                        <a href="https://funrock.com/" target="_blank" class="project-link">
-                            <i class="fas fa-link"></i>
-                        </a>
-                        <a href="" target="_blank" class="project-link">
-                            <i class="far fa-file-archive"></i>
-                        </a>
-                    </div>
-                    <div class="portfolio-img">
-                        <router-link to="/island"><img src="../resources/project-images/Island2.png" alt=""></router-link>
-                    </div>
-                </div>
-
-                <div class="separator-line"></div>
-
-                <div class="portfolio-item">
-                    <div class="portfolio-img has-margin-right">
-                        <router-link to="/mecha"><img src="../resources/project-images/Mecha1.png" alt=""></router-link>
-                    </div>
-                    <div class="portfolio-description">
-                        <h6>AR Unity Game Development - Group Project</h6>
-                        <h1>Mecha Maker</h1>
-                        <p>
-                            An augmented reality mobile game developed in Unity that serves as a proof of concept for a product where users can collect physical trading cards representing different mechanical parts and then use them inside a mixed reality environment to manually construct custom mechas that they can then use in-game to fight waves of hostile robots.
-                        </p>
-                        <p class="cta">Highlights: <strong>Unity</strong>, <strong>C#</strong>, <strong>Game Design</strong>, <strong>Augmented Reality</strong>, <strong>Image Tracking</strong>, <strong>AR Foundation</strong>, <strong>Mobile Application</strong>, <strong>FMOD</strong>.</p>
-                        <br><br>
-                        <p class="cta"><router-link to="/mecha"><strong>View Details</strong></router-link></p>
-                        <br><br>
-                        <a href="" target="_blank" class="project-link">
-                            <i class="fab fa-github"></i>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="separator-line"></div>
-
-                <div class="portfolio-item">
-                    <div class="portfolio-description has-margin-right">
                         <h6>Unity Game Development - Work for International Community Project</h6>
                         <h1>DCGO Trading Card Game Simulator</h1>
                         <p>
@@ -76,12 +29,34 @@
                 </div>
 
                 <div class="separator-line"></div>
-                
+
                 <div class="portfolio-item">
                     <div class="portfolio-img has-margin-right">
-                        <router-link to="/deep"><img src="../resources/project-images/Deep8.png" alt=""></router-link>
+                        <router-link to="/island"><img src="../resources/project-images/Island2.png" alt=""></router-link>
                     </div>
                     <div class="portfolio-description">
+                        <h6>Unreal Engine Game Development - Master Thesis Project</h6>
+                        <h1>FortCraft: Island Escape</h1>
+                        <p>
+                            Developed in collaboration with <strong>FunRock and Prey Studios</strong>, this large-scale multiplayer cooperative sandbox survival game was developed with Unreal Engine and officially published in Fortnite. It enables up to 100 players to explore a mysterious island, gather materials, and craft items together as a team to survive an impending extinction event.
+                        </p>
+                        <p class="cta">Highlights: <strong>Unreal Engine 5</strong>, <strong>UEFN</strong>, <strong>Game Design</strong>, <strong>Gameplay Programming</strong>, <strong>Verse</strong>, <strong>Sandbox Survival</strong>, <strong>Emergent Player Behavior</strong>, <strong>Master Thesis</strong>.</p>
+                        <br><br>
+                        <p class="cta"><router-link to="/island"><strong>View Details</strong></router-link></p>
+                        <br><br>
+                        <a href="https://funrock.com/" target="_blank" class="project-link">
+                            <i class="fas fa-link"></i>
+                        </a>
+                        <a href="" target="_blank" class="project-link">
+                            <i class="far fa-file-archive"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="separator-line"></div>
+                
+                <div class="portfolio-item">
+                    <div class="portfolio-description has-margin-right">
                         <h6>3D Unity Game Development - Group Project</h6>
                         <h1>Creatures of the Deep</h1>
                         <p>
@@ -96,6 +71,31 @@
                             <i class="fab fa-itch-io"></i>
                         </a>
                         <a href="https://github.com/Erdandrej/Portfolio_Sample_Scripts/tree/main/CreaturesOfTheDeep" target="_blank" class="project-link">
+                            <i class="fab fa-github"></i>
+                        </a>
+                    </div>
+                    <div class="portfolio-img">
+                        <router-link to="/deep"><img src="../resources/project-images/Deep8.png" alt=""></router-link>
+                    </div>
+                </div>
+
+                <div class="separator-line"></div>
+
+                <div class="portfolio-item">
+                    <div class="portfolio-img has-margin-right">
+                        <router-link to="/mecha"><img src="../resources/project-images/Mecha1.png" alt=""></router-link>
+                    </div>
+                    <div class="portfolio-description">
+                        <h6>AR Unity Game Development - Group Project</h6>
+                        <h1>Mecha Maker</h1>
+                        <p>
+                            An augmented reality mobile game developed in Unity that serves as a proof of concept for a product where users can collect physical trading cards representing different mechanical parts and then use them inside a mixed reality environment to manually construct custom mechas that they can then use in-game to fight waves of hostile robots.
+                        </p>
+                        <p class="cta">Highlights: <strong>Unity</strong>, <strong>C#</strong>, <strong>Game Design</strong>, <strong>Augmented Reality</strong>, <strong>Image Tracking</strong>, <strong>AR Foundation</strong>, <strong>Mobile Application</strong>, <strong>FMOD</strong>.</p>
+                        <br><br>
+                        <p class="cta"><router-link to="/mecha"><strong>View Details</strong></router-link></p>
+                        <br><br>
+                        <a href="" target="_blank" class="project-link">
                             <i class="fab fa-github"></i>
                         </a>
                     </div>
