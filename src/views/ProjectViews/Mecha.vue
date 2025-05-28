@@ -14,16 +14,19 @@ export default {
           projectDetails: {
               title: "Mecha Maker",
               subtitle: "Unity AR Game Group Project",
-              mainImage: {name: "Mecha1.png", index: 0},
+              mainImage: {name: "MechaDemo1.gif", index: 0},
               images: [[
-                    {name: "Mecha1.png", index: 1},
-                    {name: "Mecha1.png", index: 2},
+                    {name: "MechaDemo2.gif", index: 1},
+                    {name: "Mecha5.png", index: 2},
+                    {name: "Mecha9.png", index: 3}
               ],[
-                    {name: "Mecha1.png", index: 3},
-                    {name: "Mecha1.png", index: 4},
+                    {name: "Mecha6.png", index: 4},
+                    {name: "Mecha8.png", index: 5},
+                    {name: "Mecha7.png", index: 6}
               ],[
-                    {name: "Mecha1.png", index: 5},
-                    {name: "Mecha1.png", index: 6},
+                    {name: "Mecha2.png", index: 7},
+                    {name: "Mecha3.png", index: 8},
+                    {name: "Mecha4.png", index: 9},
               ]],
               descriptionComponent: "mecha-descript"
           }
