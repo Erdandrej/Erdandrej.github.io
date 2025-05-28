@@ -10,10 +10,10 @@
                         <p>
                         My MSc thesis work from the Game Design and Technology program at the University of Gothenburg.
                         This research thesis explores how sandbox game mechanics can be designed to foster emergent, community-driven cooperative behavior among players, particularly through the organic formation of role hierarchies. 
-                        The project combines academic research on game psychology, player motivation, and multiplayer system dynamics with iterative design and empirical playtesting. 
+                        The project combines academic research on game design theory, psychology of player motivation, and multiplayer community dynamics with iterative design and empirical playtesting. 
                         It aims to contribute practical design guidelines for future games seeking to cultivate deep social interaction and self-sustaining player communities that extend beyond the sum of their individual mechanics.
                         </p>
-                        <p class="cta">Highlights: <strong>Game Design</strong>, <strong>Emergent Player Behavior</strong> , <strong>Empirical Playtesting</strong>, <strong>Player Motivation</strong>, <strong>Multiplayer System Dynamics</strong>, <strong>Game Psychology</strong>.</p>
+                        <p class="cta">Highlights: <strong>Game Design</strong>, <strong>Emergent Player Behavior</strong> , <strong>Empirical Playtesting</strong>, <strong>Player Motivation</strong>, <strong>Multiplayer Community Dynamics</strong>, <strong>Game Psychology</strong>.</p>
                     </div>
                 </div>
 

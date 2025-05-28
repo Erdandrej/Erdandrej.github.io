@@ -12,7 +12,7 @@ export default {
   data: () => {
       return {
           projectDetails: {
-              title: "MechaMaker",
+              title: "Mecha Maker",
               subtitle: "Unity AR Game Group Project",
               mainImage: {name: "Mecha1.png", index: 0},
               images: [[

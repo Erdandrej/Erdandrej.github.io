@@ -7,10 +7,9 @@
                         <h6>Unreal Engine Game Development - Master Thesis Project</h6>
                         <h1>FortCraft: Island Escape</h1>
                         <p>
-                            A massively multiplayer cooperative sandbox survival game, developed in Unreal Engine and accessible through the Fortnite client, which enables up to 100 players to explore a mysterious island, gather materials, and craft items together as a team to survive an imminent extinction event.
-                            Developed in collaboration with <strong>FunRock and Prey Studios</strong>.
+                            Developed in collaboration with <strong>FunRock and Prey Studios</strong>, this large-scale multiplayer cooperative sandbox survival game was developed with Unreal Engine and officially published in Fortnite. It enables up to 100 players to explore a mysterious island, gather materials, and craft items together as a team to survive an impending extinction event.
                         </p>
-                        <p class="cta">Highlights: <strong>Unreal Engine 5</strong>, <strong>UEFN</strong>, <strong>Game Design</strong>, <strong>Gameplay Programming</strong>, <strong>Verse</strong>, <strong>Large Scale Multiplayer</strong>, <strong>Emergent Player Behavior</strong>, <strong>Master Thesis</strong>.</p>
+                        <p class="cta">Highlights: <strong>Unreal Engine 5</strong>, <strong>UEFN</strong>, <strong>Game Design</strong>, <strong>Gameplay Programming</strong>, <strong>Verse</strong>, <strong>Sandbox Survival</strong>, <strong>Emergent Player Behavior</strong>, <strong>Master Thesis</strong>.</p>
                         <br><br>
                         <p class="cta"><router-link to="/island"><strong>View Details</strong></router-link></p>
                         <br><br>
@@ -34,9 +33,9 @@
                     </div>
                     <div class="portfolio-description">
                         <h6>AR Unity Game Development - Group Project</h6>
-                        <h1>MechaMaker</h1>
+                        <h1>Mecha Maker</h1>
                         <p>
-                            An augmented reality mobile game developed in Unity that serves as a proof of concept for a product where users can collect physical trading cards representing different mechanical parts and then use them inside a mixed reality environment to manually construct custom mechs that they can then use in-game to fight waves of hostile robots.
+                            An augmented reality mobile game developed in Unity that serves as a proof of concept for a product where users can collect physical trading cards representing different mechanical parts and then use them inside a mixed reality environment to manually construct custom mechas that they can then use in-game to fight waves of hostile robots.
                         </p>
                         <p class="cta">Highlights: <strong>Unity</strong>, <strong>C#</strong>, <strong>Game Design</strong>, <strong>Augmented Reality</strong>, <strong>Image Tracking</strong>, <strong>AR Foundation</strong>, <strong>Mobile Application</strong>, <strong>FMOD</strong>.</p>
                         <br><br>
