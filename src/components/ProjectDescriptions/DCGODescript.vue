@@ -2,6 +2,7 @@
     <div>
         <p>
             A fully automated fan-made trading card game simulator made in Unity for the Digimon Card Game that allows players to matchmake online or play against AI opponents with their own custom decks.
+            Our remote team is comprised of developers from all around the world.
             <br><br>
             This simulator fully implements and automates over 3000 cards, each with their own unique card effects and interactions, with hundreds of new cards being released every few months.
             It aims to keep up with the release schedule of the physical card game it simulates and allows players to test decks against each other or AI opponents and enjoy the game online.
@@ -16,12 +17,13 @@
             <strong>custom animations and sound effects</strong>,
             <strong> an extensive options menu</strong>, and a <strong>mac version</strong>.
             <br><br>
-            Our remote team is comprised of developers from all around the world, and I contribute to this project as a gameplay programmer. 
+            I contribute to this project as a gameplay programmer using C#. 
             My responsibilities include implementing new cards, their unique card effects, all gameplay systems surrounding them, and 
             programming new game mechanics never seen before in the game. Every few weeks, I bugfix older problematic cards to uphold the quality of the product and satisfy our players.
         </p>
         <p class="tool-used">Tools Used:
             <br> • <strong>UNITY</strong>
+            <br> • <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><strong>C#</strong></a>
             <br> • <a href="https://docs.unity3d.com/Manual/class-ScriptableObject.html" target="_blank"><strong>SCRIPTABLE OBJECTS</strong></a>
             <br> • <a href="https://docs.unity3d.com/Manual/Coroutines.html" target="_blank"><strong>COROUTINES</strong></a>
             <br> • <a href="https://docs.unity3d.com/Manual/UnityEvents.html" target="_blank"><strong>CUSTOM EVENTS</strong></a>

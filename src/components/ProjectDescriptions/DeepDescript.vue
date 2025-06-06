@@ -25,6 +25,7 @@
         </p>
         <p class="tool-used">Tools Used:
             <br> • <strong>UNITY</strong>
+            <br> • <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><strong>C#</strong></a>
             <br> • <a href="https://docs.unity3d.com/Manual/class-RenderTexture.html" target="_blank"><strong>RENDER TEXTURES</strong></a>
             <br> • <a href="https://www.jasondavies.com/poisson-disc/" target="_blank"><strong>POISSON DISC-SAMPLING</strong></a>
             <br> • <a href="https://docs.unity3d.com/Manual/class-ScriptableObject.html" target="_blank"><strong>SCRIPTABLE OBJECTS</strong></a>

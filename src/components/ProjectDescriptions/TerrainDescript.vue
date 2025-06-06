@@ -15,7 +15,7 @@
             <strong>generating the procedural terrain mesh</strong>, <strong>implementing shaders</strong> and the <strong>biome system</strong>.
         </p>
         <p class="tool-used">Tools Used:
-            <br> • <strong>C++</strong>
+            <br> • <a href="https://cplusplus.com/" target="_blank"><strong>C++</strong></a>
             <br> • <a href="https://www.opengl.org/" target="_blank"><strong>OPENGL</strong></a>
             <br> • <a href="https://www.libsdl.org/" target="_blank"><strong>SDL2.0</strong></a>
             <br> • <a href="https://en.wikipedia.org/wiki/Perlin_noise" target="_blank"><strong>PERLIN NOISE</strong></a>

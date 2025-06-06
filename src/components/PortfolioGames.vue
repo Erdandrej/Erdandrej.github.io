@@ -7,9 +7,9 @@
                         <h6>Unity Game Development - Work for International Community Project</h6>
                         <h1>DCGO Trading Card Game Simulator</h1>
                         <p>
-                            Programming gameplay systems and individual card mechanics for a live service trading card game simulator made in Unity with thousands of active players, dedicated testers, and frequent build releases.
+                            Programming gameplay systems and individual card mechanics for a Unity-based live service trading card game simulator made in Unity with thousands of active players, dedicated testers, and frequent build releases.
                         </p>
-                        <p class="cta">Highlights: <strong>Unity</strong>, <strong>C#</strong>, <strong>Gameplay Programming</strong>, <strong>Live-Service</strong>, <strong>Frequent Updates</strong>, <strong>Active Playerbase</strong>.</p>
+                        <p class="cta">Highlights: <strong>Unity</strong>, <strong>C#</strong>, <strong>Gameplay Programming</strong>, <strong>Live-Service</strong>, <strong>Frequent Updates</strong>, <strong>Active Playerbase</strong>, <strong>Multiplayer</strong>.</p>
                         <br><br>
                         <p class="cta"><router-link to="/dcgo"><strong>View Details</strong></router-link></p>
                         <br><br>
@@ -40,7 +40,7 @@
                         <p>
                             Developed in collaboration with <strong>FunRock and Prey Studios</strong>, this large-scale multiplayer cooperative sandbox survival game was developed with Unreal Engine and officially published in Fortnite. It enables up to 100 players to explore a mysterious island, gather materials, and craft items together as a team to survive an impending extinction event.
                         </p>
-                        <p class="cta">Highlights: <strong>Unreal Engine 5</strong>, <strong>UEFN</strong>, <strong>Game Design</strong>, <strong>Gameplay Programming</strong>, <strong>Verse</strong>, <strong>Sandbox Survival</strong>, <strong>Emergent Player Behavior</strong>, <strong>Master Thesis</strong>.</p>
+                        <p class="cta">Highlights: <strong>Unreal Engine 5</strong>, <strong>UEFN</strong>, <strong>Game Design</strong>, <strong>Gameplay Programming</strong>, <strong>Verse</strong>, <strong>Sandbox Survival</strong>, <strong>Multiplayer</strong>, <strong>Master Thesis</strong>.</p>
                         <br><br>
                         <p class="cta"><router-link to="/island"><strong>View Details</strong></router-link></p>
                         <br><br>

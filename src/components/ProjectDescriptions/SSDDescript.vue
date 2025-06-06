@@ -21,6 +21,7 @@
         </p>
         <p class="tool-used">Tools Used:
             <br> • <strong>GODOT</strong>
+            <br> • <a href="https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html" target="_blank"><strong>GDSCRIPT</strong></a>
             <br> • <a href="https://docs.godotengine.org/en/stable/getting_started/step_by_step/signals.html" target="_blank"><strong>SIGNALS</strong></a>
             <br> • <a href="https://docs.godotengine.org/en/stable/tutorials/3d/environment_and_post_processing.html" target="_blank"><strong>POST-PROCESSING EFFECTS</strong></a>
             <br> • <a href="https://docs.godotengine.org/en/3.2/tutorials/misc/state_design_pattern.html" target="_blank"><strong>STATE MACHINES</strong></a>

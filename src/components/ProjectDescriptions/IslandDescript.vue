@@ -28,7 +28,8 @@
         <p class="tool-used">Tools Used:
             <br> • <strong>UNREAL ENGINE</strong>
             <br> • <a href="https://www.unrealengine.com/en-US/uses/uefn-unreal-editor-for-fortnite" target="_blank"><strong>UEFN</strong></a>
-            <br> • <a href="https://dev.epicgames.com/documentation/en-us/unreal-engine/player-controllers-in-unreal-engine" target="_blank"><strong>VERSE DEVICES</strong></a>
+            <br> • <a href="https://dev.epicgames.com/documentation/en-us/fortnite/verse-language-reference" target="_blank"><strong>VERSE</strong></a>
+            <br> • <a href="https://dev.epicgames.com/documentation/en-us/fortnite/devices-in-unreal-editor-for-fortnite" target="_blank"><strong>VERSE DEVICES</strong></a>
             <br> • <a href="https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-engine-sequencer-movie-tool-overview" target="_blank"><strong>CINEMATIC SEQUENCER</strong></a>
             <br> • <a href="https://dev.epicgames.com/documentation/en-us/uefn/using-npc-character-definitions-in-unreal-editor-for-fortnite" target="_blank"><strong>AI NPC CHARACTER DEFINITION</strong></a>
             <br> • <a href="https://dev.epicgames.com/documentation/en-us/unreal-engine/landscape-sculpt-tool-in-unreal-engine" target="_blank"><strong>TERRAIN SCULPT TOOL</strong></a>
@@ -36,7 +37,7 @@
             <br> • <a href="https://dev.epicgames.com/documentation/en-us/unreal-engine/player-controllers-in-unreal-engine" target="_blank"><strong>THIRD PERSON PLAYER CONTROLLER</strong></a>
             <br> • <a href="https://dev.epicgames.com/documentation/en-us/fortnite-creative/fortnite-weapons-primer" target="_blank"><strong>FORTNITE WEAPON SYSTEM</strong></a>
             <br> • <a href="https://dev.epicgames.com/documentation/en-us/uefn/playtesting-your-island-in-unreal-editor-for-fortnite" target="_blank"><strong>MULTI-PLATFORM PLAYTESTING</strong></a>
-            <br> • <a href="https://dev.epicgames.com/documentation/en-us/unreal-engine/source-control-in-unreal-engine" target="_blank"><strong>UNREAL SOURCE CONTROL</strong></a> (For version control)
+            <br> • <a href="https://dev.epicgames.com/documentation/en-us/unreal-engine/source-control-in-unreal-engine" target="_blank"><strong>UNREAL REVISION CONTROL</strong></a> (For version control)
         </p>
         <br><br>
         <a href="https://funrock.com/" target="_blank" class="project-link">
