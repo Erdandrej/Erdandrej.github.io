@@ -5,7 +5,7 @@
                 <div class="portfolio-item">
                     <div class="portfolio-description has-margin-right">
                         <h6>Unity Game Development - Work for International Community Project</h6>
-                        <h1>DCGO Trading Card Game Simulator</h1>
+                        <h1>DCGO Trading Card Game Simulator | (05/24-Now)</h1>
                         <p>
                             Programming gameplay systems and individual card mechanics for a Unity-based live service trading card game simulator made in Unity with thousands of active players, dedicated testers, and frequent build releases.
                         </p>
@@ -36,7 +36,7 @@
                     </div>
                     <div class="portfolio-description">
                         <h6>Unreal Engine Game Development - Master Thesis Project</h6>
-                        <h1>FortCraft: Island Escape</h1>
+                        <h1>FortCraft: Island Escape | (01/25-Now)</h1>
                         <p>
                             Developed in collaboration with <strong>FunRock and Prey Studios</strong>, this large-scale multiplayer cooperative sandbox survival game was developed with Unreal Engine and officially published in Fortnite. It enables up to 100 players to explore a mysterious island, gather materials, and craft items together as a team to survive an impending extinction event.
                         </p>
@@ -58,7 +58,7 @@
                 <div class="portfolio-item">
                     <div class="portfolio-description has-margin-right">
                         <h6>3D Unity Game Development - Group Project</h6>
-                        <h1>Creatures of the Deep</h1>
+                        <h1>Creatures of the Deep | (09/24-11/24)</h1>
                         <p>
                             A first-person atmospheric horror adventure game developed in Unity where the player has to navigate an antique submarine 
                             through sunken ruins with a physical control system and retrieve a set of ancient artefacts while avoiding what lurks beneath. 
@@ -87,7 +87,7 @@
                     </div>
                     <div class="portfolio-description">
                         <h6>AR Unity Game Development - Group Project</h6>
-                        <h1>Mecha Maker</h1>
+                        <h1>Mecha Maker | (11/24-01/25)</h1>
                         <p>
                             An augmented reality mobile game developed in Unity that serves as a proof of concept for a product where users can collect physical trading cards representing different mechanical parts and then use them inside a mixed reality environment to manually construct custom mechas that they can then use in-game to fight waves of hostile robots.
                         </p>
@@ -109,7 +109,7 @@
                 <div class="portfolio-item">
                     <div class="portfolio-description has-margin-right">
                         <h6>2.5D Godot Game Development - Group Project</h6>
-                        <h1>Solid State Drive</h1>
+                        <h1>Solid State Drive | (11/23-01/24)</h1>
                         <p>
                             An arcade-style endless runner game implemented in the Godot game engine in six weeks that leans heavily on a retro-futuristic setting, 
                             marrying 3D environments with 2D sprites and post-processing effects.
@@ -162,7 +162,7 @@
                 <div class="portfolio-item">
                     <div class="portfolio-description has-margin-right">
                         <h6>Board Game Development - Group Project</h6>
-                        <h1>Spellwright's Armageddon</h1>
+                        <h1>Spellwright's Armageddon | (10/23-11/23)</h1>
                         <p>
                             A custom 3D-printed multiplayer board game that allows players to take on the role of wizards, 
                             creating geometrical patterns on a board to cast elemental spell cards and overcome their adversaries.
