@@ -22,7 +22,7 @@
         </p>
         <br><br>
         <p>
-            My responsibilities included overseeing the overall design and technical architecture of the game, designing the player progression and gameplay loop, and implementing all gameplay-related systems and mechanics using UEFN tools, such as the crafting system, base building, resource node gathering, NPC spawning and behavior, loot drops, and environmental obstacles.
+            My responsibilities included overseeing the overall design and technical architecture of the game, designing the player progression, resource economy and gameplay loop, and implementing all gameplay-related systems and mechanics using UEFN tools, such as the crafting system, base building, resource node gathering, NPC spawning and behavior, loot drops, and environmental obstacles.
             Additionally, I was in charge of utilizing the cinematic sequencer to create animations for building structures and the meteor. 
         </p>
         <p class="tool-used">Tools Used:
