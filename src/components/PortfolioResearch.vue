@@ -29,7 +29,7 @@
                         My BSc thesis work from the Computer Science and Engineering at the Delf University of Technology. 
                         This empirical research study consisted of measuring the performance of a specific AI method, Propensity Score Matching, compared to other methods for determining causality in various data sets by changing their inherent unconfoundedness.
                         </p>
-                        <p class="cta">Highlights: <strong>Algorithm Design</strong>, <strong>AI</strong>, <strong>Data Science</strong>.</p>
+                        <p class="cta">Highlights: <strong>Algorithm Design</strong>, <strong>AI</strong>, <strong>Data Science</strong>, <strong>Python</strong>, <strong>NumPy</strong>, <strong>pandas</strong>.</p>
                     </div>
                 </div>
 
@@ -46,7 +46,7 @@
                         This report presents the work my group did on creating a fully automated testing framework for the AATOM software, 
                         an AI agent-based virtual model that simulates the behavior of crowds in airport terminals in order to optimize their layout.
                         </p>
-                        <p class="cta">Highlights: <strong>Software Architecture</strong>, <strong>AI</strong>, <strong>Testing Framework</strong>, <strong>Software Quality</strong>.</p>
+                        <p class="cta">Highlights: <strong>Software Architecture</strong>, <strong>AI</strong>, <strong>Testing Framework</strong>, <strong>Software Quality</strong>, <strong>Java</strong>.</p>
                     </div>
                 </div>
 
