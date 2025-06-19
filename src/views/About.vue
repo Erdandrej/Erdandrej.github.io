@@ -10,15 +10,15 @@
 				</div>
 				<div class="about-details">
 					<p>
-						As a passionate <strong>game developer</strong> and <strong>computer scientist</strong>, specialized in <strong>game programming</strong> and <strong>game design</strong>, 
+						As a passionate <strong>game developer</strong>, <strong>software engineer</strong>, and <strong>computer scientist</strong> specializing in <strong>gameplay programming</strong> and <strong>game design</strong>, 
 						I strive to combine technical expertise with innovative design to bring immersive digital experiences to life.
                     </p>
                     <br>
 					<div class="separator-line"></div>
                     <br>
 					<p>
-						My practical experiences in <strong>academia</strong>, <strong>personal projects</strong>, and work on ongoing 
-						<strong>online games</strong> have helped me nurture a diverse yet robust skillset, ready for any development environment.
+						My practical experiences acquired in <strong>academia</strong>, <strong>personal projects</strong>, and working on <strong>published games</strong> 
+						have helped me nurture a diverse yet robust skill set, ready for any development environment.
                     </p>
                     <br>
 					<div class="separator-line"></div>
