@@ -10,7 +10,7 @@
 				</div>
 				<div class="about-details">
 					<p>
-						As a passionate <strong>game developer</strong>, <strong>software engineer</strong>, and <strong>computer scientist</strong> specializing in <strong>gameplay programming</strong> and <strong>game design</strong>, 
+						As a passionate <strong>game developer</strong>, <strong>software engineer</strong>, and <strong>computer scientist</strong> specializing in <strong>software development</strong> and <strong>game programming</strong>, 
 						I strive to combine technical expertise with innovative design to bring immersive digital experiences to life.
                     </p>
                     <br>
