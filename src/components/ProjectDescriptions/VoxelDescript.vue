@@ -9,7 +9,7 @@
             My main responsibilities for this project were to <strong>implement the baseline 3D rendering engine</strong> and to create an <strong>algorithm for importing 3D models</strong>.
         </p>
         <p class="tool-used">Tools Used:
-            <br> • <a href="https://cplusplus.com/" target="_blank"><strong>C++</strong></a>
+            <br> • <a href="https://cplusplus.com/" target="_blank"><strong>C#</strong></a>
             <br> • <a href="https://www.opengl.org/" target="_blank"><strong>OPENGL</strong></a>
             <br> • <a href="https://medium.com/@fogleman/voxel-rendering-techniques-fa8d869457ca" target="_blank"><strong>VOXEL RENDERING</strong></a>
             <br> • <a href="https://www.fmod.com/" target="_blank"><strong>FMOD</strong></a>

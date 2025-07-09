@@ -36,6 +36,13 @@
                             Andrej was humble, open to feedback, and fully committed to the goals of the project. He brought both competence and character to the work, and I would gladly recommend him for future opportunities in the game industry or wherever his skills and personality could be useful.
                         </i>
                         <br><br>- <strong>Joakim Höglund, Head of Studio at FunRock and Prey Studios</strong></p>
+                        <br><br>
+                        <br><br>
+                        <p><i>I have had the pleasure of working with Andrej for the last year on a live service multiplayer card game simulator. Andrej impressed quickly with his ability to quickly grasp new concepts and complex code scenarios within the project.
+                            <br><br>
+                            Andrej impressed me with his knowledge and how quickly he got up to speed to start developing new features within the project. I have no doubt he will bring that same energy and expertise in the future to anyone he has the pleasure of working with.
+                        </i>
+                        <br><br>- <strong>Michael Bunch, Technical Lead at Kaleidoscope Innovation & DCGO</strong></p>
                     </div>
                     <div class="skill">
                         <p><i>My interaction with Andrej began through his interest in researching, "In what ways does the ever-increasing power creep in the Digimon TCG franchise affect the psychology of its players?". This research project presented a thorough analysis of the Digimon Card Game and how mechanics interact with or influence human psychology. It showed the advanced analysis skills needed to examine gameplay and demonstrated an understanding of gameplay elements and how they work. The paper was well received at the Second Conference for the Introduction to Game Research course and earned him the top marks in the course.
