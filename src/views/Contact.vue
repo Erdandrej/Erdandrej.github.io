@@ -13,7 +13,7 @@
                     </a>
                 </p>
                 <br>
-                <p id="contact-p-number">+46 709 228 250</p>
+                <p id="contact-p-number">+421 917 852 041</p>
                 </div>
             </div>
         </section>

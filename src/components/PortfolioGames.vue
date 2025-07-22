@@ -7,7 +7,7 @@
                         <h6>Unity Game Development - Work for International Community Project</h6>
                         <h1>DCGO Trading Card Game Simulator | (05/24-Now)</h1>
                         <p>
-                            Programming gameplay systems and individual card mechanics for a Unity-based live service trading card game simulator made in Unity with thousands of active players, dedicated testers, and frequent build releases.
+                            Programming gameplay systems and individual card mechanics for a published Unity-based live service trading card game simulator made in Unity with thousands of active players, dedicated testers, and frequent build releases.
                         </p>
                         <p class="cta">Highlights: <strong>Unity</strong>, <strong>C#</strong>, <strong>Gameplay Programming</strong>, <strong>Live-Service</strong>, <strong>Frequent Updates</strong>, <strong>Active Playerbase</strong>, <strong>Multiplayer</strong>.</p>
                         <br><br>

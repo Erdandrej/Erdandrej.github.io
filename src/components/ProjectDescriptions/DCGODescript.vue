@@ -1,7 +1,7 @@
 <template>
     <div>
         <p>
-            A fully automated fan-made trading card game simulator made in Unity for the Digimon Card Game that allows players to matchmake online or play against AI opponents with their own custom decks.
+            A published fully automated fan-made trading card game simulator made in Unity for the Digimon Card Game that allows players to matchmake online or play against AI opponents with their own custom decks.
             Our remote team is comprised of developers from all around the world.
             <br><br>
             This simulator fully implements and automates over 3000 cards, each with their own unique card effects and interactions, with hundreds of new cards being released every few months.
