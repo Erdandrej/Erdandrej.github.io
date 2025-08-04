@@ -4,7 +4,7 @@
 
                 <div class="portfolio-item">
                     <div class="portfolio-description has-margin-right">
-                        <h6>Unity Game Development - Work for International Community Project</h6>
+                        <h6>C# Unity Game Development - Gameplay Programmer Work</h6>
                         <h1>DCGO Trading Card Game Simulator | (05/24-Now)</h1>
                         <p>
                             Programming gameplay systems and individual card mechanics for a published Unity-based live service trading card game simulator made in Unity with thousands of active players, dedicated testers, and frequent build releases.
@@ -57,7 +57,7 @@
                 
                 <div class="portfolio-item">
                     <div class="portfolio-description has-margin-right">
-                        <h6>3D Unity Game Development - Group Project</h6>
+                        <h6>C# Unity 3D Game Development - Group Project</h6>
                         <h1>Creatures of the Deep | (09/24-11/24)</h1>
                         <p>
                             A first-person atmospheric horror adventure game developed in Unity where the player has to navigate an antique submarine 
@@ -86,7 +86,7 @@
                         <router-link to="/mecha"><img src="../resources/project-images/Mecha1.png" alt=""></router-link>
                     </div>
                     <div class="portfolio-description">
-                        <h6>AR Unity Game Development - Group Project</h6>
+                        <h6>C# Unity AR Game Development - Group Project</h6>
                         <h1>Mecha Maker | (11/24-01/25)</h1>
                         <p>
                             An augmented reality mobile game developed in Unity that serves as a proof of concept for a product where users can collect physical trading cards representing different mechanical parts and then use them inside a mixed reality environment to manually construct custom mechas that they can then use in-game to fight waves of hostile robots.
@@ -108,7 +108,7 @@
 
                 <div class="portfolio-item">
                     <div class="portfolio-description has-margin-right">
-                        <h6>2.5D Godot Game Development - Group Project</h6>
+                        <h6>Godot 2.5D Game Development - Group Project</h6>
                         <h1>Solid State Drive | (11/23-01/24)</h1>
                         <p>
                             An arcade-style endless runner game implemented in the Godot game engine in six weeks that leans heavily on a retro-futuristic setting, 
@@ -137,7 +137,7 @@
                         <router-link to="/crowley"><img src="../resources/project-images/Crowley1.png" alt=""></router-link>
                     </div>
                     <div class="portfolio-description">
-                        <h6>3D Godot Game Development - Game Jam</h6>
+                        <h6>Godot 3D Game Development - Game Jam</h6>
                         <h1>Crowley | Spooky Game Jam 23</h1>
                         <p>
                             A charming trinket collecting action game made in Godot over a weekend, where you control a crow with proper flight physics

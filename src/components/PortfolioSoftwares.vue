@@ -6,7 +6,7 @@
                         <router-link to="/terrain"><img src="../resources/project-images/Terrain1.png" alt=""></router-link>
                     </div>
                     <div class="portfolio-description">
-                        <h6>Computer Graphics Project</h6>
+                        <h6>C++ Computer Graphics Project</h6>
                         <h1>Noise-based Terrain Generation | (03/24-06/24)</h1>
                         <p>
                             Computer graphics software that can create natural-looking terrain using modular Perlin noise-based algorithms, 
@@ -26,7 +26,7 @@
     
                 <div class="portfolio-item">
                     <div class="portfolio-description has-margin-right">
-                        <h6>Game Engine Architecture - Group Project</h6>
+                        <h6>C# Game Engine Architecture - Group Project</h6>
                         <h1>Voxel Game Engine | (01/24-03/24)</h1>
                         <p>
                             As a project for the Game Engine Architecture course during my Master's degree, our team decided to create a voxel engine from the ground up with OpenGL in C#.

@@ -13,7 +13,7 @@ export default {
       return {
           projectDetails: {
               title: "DCGO Trading Card Game Simulator",
-              subtitle: "Unity Multiplayer Trading Card Game Simulator",
+              subtitle: "C# Unity Multiplayer Trading Card Game Simulator",
               mainImage: {name: "DCGO-Demo-Attacking.gif", index: 0},
               images: [[
                     {name: "DCGO-Demo-StartMatch.gif", index: 1},

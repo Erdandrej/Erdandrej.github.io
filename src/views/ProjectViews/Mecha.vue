@@ -13,7 +13,7 @@ export default {
       return {
           projectDetails: {
               title: "Mecha Maker",
-              subtitle: "Unity AR Game Group Project",
+              subtitle: "C# Unity AR Game Group Project",
               mainImage: {name: "MechaDemo1.gif", index: 0},
               images: [[
                     {name: "MechaDemo2.gif", index: 1},

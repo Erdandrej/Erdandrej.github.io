@@ -2,7 +2,7 @@
     <div>
         <p>
             My Game Design and Technology Master Thesis Project at the University of Gothenburg made in collaboration with our partners at <strong>FunRock and Prey Studios</strong>.
-            This is a prototype for a cooperative multiplayer sandbox game, published in the Fortnite client, designed as a research vehicle to explore how game mechanics can encourage players to self-organize into cooperative role hierarchies within an open-ended, minimally guided sandbox environment. 
+            This is a large-scale cooperative multiplayer sandbox game, published in the Fortnite client, designed as a research vehicle to explore how game mechanics can encourage players to self-organize into cooperative role hierarchies within an open-ended, minimally guided sandbox environment. 
             The core gameplay revolves around survival, resource management, crafting, and exploration activities that inherently benefit from task specialization and team coordination.
             Thanks to the Fortnite Creator Program, this game is capable of generating revenue.
         </p>

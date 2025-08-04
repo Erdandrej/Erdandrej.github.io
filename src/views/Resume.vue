@@ -12,7 +12,8 @@
                         <p class="global-link resume-file"><a href="./BachelorCoursesPassed.pdf" target="_blank"><i class="far fa-file-pdf"/> BachelorCourses.pdf</a></p>
                     </div>
                     <div class="skill">
-                        <p class="global-link resume-file"><a href="./MasterCourseTranscript.pdf" target="_blank"><i class="far fa-file-pdf"/> MasterCourseTranscript.pdf</a></p>
+                        <p class="global-link resume-file"><a href="./MasterCourseTranscript.pdf" target="_blank"><i class="far fa-file-pdf"/> MasterCourses.pdf</a></p>
+                        <p class="global-link resume-file"><a href="./MasterRegistrationCertificate.pdf" target="_blank"><i class="far fa-file-pdf"/> MasterCertificate.pdf</a></p>
                     </div>
                     <div class="skill">
                         <p class="global-link resume-file"><a href="./CV_Andrej_Erdelsky.pdf" target="_blank"><i class="far fa-file-pdf"/> CV_AndrejErdelsky.pdf</a></p>

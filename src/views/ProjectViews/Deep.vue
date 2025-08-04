@@ -13,7 +13,7 @@ export default {
       return {
           projectDetails: {
               title: "Creatures of the Deep",
-              subtitle: "Unity 3D Game Group Project",
+              subtitle: "C# Unity 3D Game Group Project",
               mainImage: {name: "Deep2.png", index: 0},
               images: [[
                     {name: "Deep3.png", index: 1},
